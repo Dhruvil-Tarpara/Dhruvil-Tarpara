@@ -1,7 +1,3 @@
-# dhruviltarpara
-
-Dhruvil/about
-
 <h1 align="center">Hi 👋, I'm Dhruvil Tarpara</h1>
 <h3 align="center">I'm Flutter developer</h3>
 
